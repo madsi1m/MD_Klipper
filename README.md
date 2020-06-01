@@ -1,6 +1,7 @@
 # MD_Klipper
 
 Printer: Ender 3
+
 Mods:
 - SRK Mini E3 1.2
 	- wired stepper X diag pin to X endstop
