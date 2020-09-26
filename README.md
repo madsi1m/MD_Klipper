@@ -2,7 +2,7 @@
 
 Printer: Ender 3 + Pi4
 
-Slicer: SuperSlicer
+Slicer: [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
 Mods:
 - SKR Mini E3 1.2
