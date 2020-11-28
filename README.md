@@ -1,6 +1,6 @@
 # MD_Klipper
 
-Printer: Ender 3 + Pi4
+Printer: Ender 3 + Pi4 + Mods
 
 Slicer: [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
@@ -14,5 +14,5 @@ Mods:
 - 3D Touch (BLTouch Clone)
 	- wired into z endstop and servo pins
 - [MD CPAP - Ender 3 CPAP add-on with x4 5015](https://www.thingiverse.com/thing:3307633)
-- Fake BMG Extruder
-- Hardened steel nozzle
+- MD BMG-Aero Mount
+- BMG-Aero Extruder + V6 hotend
