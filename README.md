@@ -16,4 +16,5 @@ Mods:
 - [MD CPAP - Ender 3 CPAP add-on with x4 5015](https://www.thingiverse.com/thing:3307633)
 - MD BMG-Aero Mount
 - BMG-Aero Extruder + V6 hotend
+- [Logitech C920 Webcam Mount for Ender 3](https://www.thingiverse.com/thing:4741589)
 - Moved Y carriage forward by one bolt and used a shorter bolt with a T nut to secure Y axis
