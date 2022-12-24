@@ -12,7 +12,7 @@ Mods:
 	- wired z switch to probe pins as kill switch
 	- wired Pi4 GPIO 8+10+14 to SKR TFT header
 	- wired Pi4 to adxl345 [Measuring Resonances](https://www.klipper3d.org/Measuring_Resonances.html)
-- 3D Touch (BLTouch Clone)
+- 3D Touch (BLTouch Clone) from Triangle Lab
 	- wired into z endstop and servo pins
 - [MD CPAP - Ender 3 CPAP add-on with x4 5015](https://www.thingiverse.com/thing:3307633)
 - [MD Mellow BMG Aero Extruder Ender 3 Mount with CPAP Cooling](https://www.thingiverse.com/thing:4787644)
