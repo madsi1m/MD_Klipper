@@ -19,7 +19,8 @@ Mods:
 - Mellow BMG-Aero Extruder
 - Mellow Aluminum V6 Hotend
 - Mellow NF V6-Zone V2 Heat Break Copper & Aerospace Materials
-- Mellow PT-Wheels (for x axis)
+- X and Y on linear rails
+- hardened steel fake CHT nozzle
 - [Logitech C920 Webcam Mount for Ender 3](https://www.thingiverse.com/thing:4741589)
 - Moved Y carriage forward by one bolt and used a shorter bolt with a T nut to secure Y axis
 - Dual z mod, two z motors
