@@ -2,8 +2,6 @@
 
 Printer: Ender 3 + Pi4 + Mods
 
-Slicer: [SuperSlicer](https://github.com/supermerill/SuperSlicer)
-
 Mods:
 - SKR Mini E3 1.2
 	- wired stepper X diag pin to X endstop
@@ -20,7 +18,8 @@ Mods:
 - Mellow Aluminum V6 Hotend
 - Mellow NF V6-Zone V2 Heat Break Copper & Aerospace Materials
 - X and Y on linear rails
+- X and Y steppers now use 42-40 (old extruder steppers)
 - hardened steel fake CHT nozzle
-- [Logitech C920 Webcam Mount for Ender 3](https://www.thingiverse.com/thing:4741589)
-- Moved Y carriage forward by one bolt and used a shorter bolt with a T nut to secure Y axis
 - Dual z mod, two z motors
+- No more v slot wheels
+- Corexy (unreleased)
