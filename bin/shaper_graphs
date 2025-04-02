@@ -1,0 +1,5 @@
+#!/bin/bash
+
+now="$(date +%Y%m%d%H%M%S)"
+~/klipper/scripts/calibrate_shaper.py "$(ls -1 /tmp/resonances_x_*.csv | sort -r | head -n1)" -o "/tmp/shaper_calibrate_${now}_x.png"
+~/klipper/scripts/calibrate_shaper.py "$(ls -1 /tmp/resonances_y_*.csv | sort -r | head -n1)" -o "/tmp/shaper_calibrate_${now}_y.png"
